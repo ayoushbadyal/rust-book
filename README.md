@@ -6,7 +6,7 @@ the rust book
 
 ## instructions
 
-1. make a directoy called `rust-book` in `~/.config/sublime_text/Packages/ `
+1. clone this repo in `~/.config/sublime_text/Packages/ `
 2. clone the repo `https://github.com/rust-lang/book.git` in desktop
 3. run command on the terminal and `cd` into the cloned folder named `book` on desktop and run command
 	`cp -r listings/ src/ ~/.config/sublime-text/Packages/rust-book`
