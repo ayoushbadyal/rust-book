@@ -1,0 +1,5 @@
+[
+  { "caption": "rust-book: open chapter list",
+    "command": "open_file" ,"args": {
+    	"file": "${packages}/rust-book/doc.txt"},},
+]
