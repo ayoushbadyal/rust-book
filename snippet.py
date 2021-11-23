@@ -1,4 +1,3 @@
-#!/usr/bin/env python 3.8
 import os
 import sublime
 import sublime_plugin
