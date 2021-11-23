@@ -1,4 +1,4 @@
-							** RUST DOCUMENTATION **
+							** RUST DOCUMENTATION **     				ctrl+shift+j on the chapter to open
                                     Chapters
 
 ├── appendix-00.md
@@ -16,6 +16,7 @@
 ├── ch01-01-installation.md
 ├── ch01-02-hello-world.md
 ├── ch01-03-hello-cargo.md
+
 ├── ch02-00-guessing-game-tutorial.md
 
 ├── ch03-00-common-programming-concepts.md

@@ -1,5 +1,7 @@
 [
-  { "caption": "rust-book: open chapter list",
+  { "caption": "rust-book: open document",
     "command": "open_file" ,"args": {
     	"file": "${packages}/rust-book/doc.txt"},},
+
+  { "caption": "rust-book panel: open chapter list", "command": "rust_book_panel" },
 ]
